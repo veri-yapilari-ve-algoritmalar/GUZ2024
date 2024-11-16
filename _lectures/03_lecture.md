@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-10-14T13:36:17+00:00
+date: 2024-10-17T13:36:17+00:00
 title: Algoritma Analizi
 
 # optional
@@ -18,8 +18,8 @@ hide_from_announcments: false
 links:
     - url: https://docs.google.com/presentation/d/e/2PACX-1vTgAMcqTJQLGn4GSAj6Ve-Pnn0ZvLk0uDapTXkc2QlMNIsu91WJkyY-USApufkJKmJCWm2cB6f_ww8z/pub?start=false&loop=false&delayms=60000
       name: slaytlar
-    - url: #
-      name: ders kaydı
+  #  - url: #
+  #    name: ders kaydı
 
   #  - url: /static_files/presentations/code.zip
   #    name: kodlar
