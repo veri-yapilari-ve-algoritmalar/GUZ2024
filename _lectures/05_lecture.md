@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-11-04T13:36:17+00:00
+date: 2024-10-31T13:36:17+00:00
 title: Bağlı Listeler
 
 # optional
@@ -18,8 +18,8 @@ hide_from_announcments: false
 links:
     - url: https://docs.google.com/presentation/d/e/2PACX-1vQRRKyBXqHv4WKSbb9bFmO-c7e_cj6GUeHszrdSBOpdZ0UQp54A96ottVgc2Q5VXZdKWPQSHhBVYJh_/pub?start=false&loop=false&delayms=60000
       name: slaytlar
-    - url: #
-      name: ders kaydı
+#    - url: #
+#      name: ders kaydı
       
 
   #  - url: /static_files/presentations/code.zip
