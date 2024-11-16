@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-11-11T13:36:17+00:00
+date: 2024-11-07T13:36:17+00:00
 title: Yığın Kuyruk
 
 # optional
@@ -18,8 +18,8 @@ hide_from_announcments: false
 links:
     - url: https://docs.google.com/presentation/d/e/2PACX-1vQ_hSSe3rTCjrsIWWBylSLKYyNGgVpY9i_orFTHE6zAQkIaS2Irc5FW7wqTW2YXbyrK3LxF1IL03bfN/pub?start=false&loop=false&delayms=3000
       name: slaytlar
-    - url: #
-      name: ders kaydı
+ #   - url: #
+ #     name: ders kaydı
       
 
   #  - url: /static_files/presentations/code.zip
