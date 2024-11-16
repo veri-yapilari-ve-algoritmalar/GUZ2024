@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-10-07T13:36:17+00:00
+date: 2024-10-11T13:36:17+00:00
 title: Diziler ve Matrisler
 
 # optional
@@ -18,8 +18,8 @@ hide_from_announcments: false
 links:
     - url: https://docs.google.com/presentation/d/e/2PACX-1vR7_hSxIPOTm8657-uWYhpEGogMEJCk7vtg1nUbqiAlI8hbDBcDOblUkeNBgL5Dt7asJ2GtZHUeyVJ5/pub?start=false&loop=false&delayms=60000
       name: slaytlar
-    - url: #
-      name: ders kaydı
+  #  - url: #
+  #    name: ders kaydı
 
   #  - url: /static_files/presentations/code.zip
   #    name: kodlar
