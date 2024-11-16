@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-10-14T13:36:17+00:00
+date: 2024-10-24T13:36:17+00:00
 title: Arama Sıralama Algoritmaları
 
 # optional
@@ -18,16 +18,16 @@ hide_from_announcments: false
 links:
     - url: https://docs.google.com/presentation/d/e/2PACX-1vRJl9y3U42P2KJ0qSumMQET9e53pZuhkJNmEj-W-3UVKXNr-SnYJZMOuX-iChYgMxlV5yHcH6f0QmFi/pub?start=false&loop=false&delayms=3000
       name: slaytlar
-    - url: #
-      name: ders kaydı
-    - url: /codes/binary_search.js
-      name: Binary search
-    - url: /codes/bubble_sort.js 
-      name: Bubble sort
-    - url: /codes/insertion_sort.js
-      name: Insertion sort
-    - url: /codes/selection_sort.js
-      name: Selection sort
+#    - url: #
+#      name: ders kaydı
+#    - url: /codes/binary_search.js
+#      name: Binary search
+#    - url: /codes/bubble_sort.js 
+#      name: Bubble sort
+#    - url: /codes/insertion_sort.js
+#      name: Insertion sort
+#    - url: /codes/selection_sort.js
+#      name: Selection sort
       
 
   #  - url: /static_files/presentations/code.zip
